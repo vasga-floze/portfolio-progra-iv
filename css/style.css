@@ -144,24 +144,41 @@ img {
 	font-weight: normal;
 	font: 22px/30px "Times New Roman", Times, serif;
 	line-height: 20px;
-	margin: 0;
+	margin: 2;
 	text-transform: uppercase;
 	text-align: center;
 }
 #contents h1 {
 	color: #f0e99a;
-	font-weight: normal;
-	line-height: 50px;
+	font: "Times New Roman", Times, serif;
 	margin: 0;	
 	text-align: center;
 }
 #contents h5 {
-	color: #e9b66f;
+	color: #b39d7f;
 	font: 18px/30px "Times New Roman", Times, serif;
 	letter-spacing: 1px;
 	margin: 0;
 	padding: 0 0 30px;
 	text-align: center;
+}
+
+#contents h6 {
+	color: #b39d7f;
+	font: 18px/30px "Times New Roman", Times, serif;
+	letter-spacing: 1px;
+	margin: 0;
+	padding: 0 0 30px;
+	text-align: justify;
+}
+
+#contents h6 a {
+	color: #f0e99a;
+	text-decoration: none;
+}
+
+#contents h6 a:hover {
+	color: #a08a6b;
 }
 
 #contents h4 {
