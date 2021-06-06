@@ -132,12 +132,20 @@ img {
 	min-height: 830px;
 	padding: 60px 20px 30px;
 }
+#contents h3 {
+	color: #f0e99a;
+	font-weight: normal;
+	font: 18px/30px "Times New Roman", Times, serif;
+	line-height: 20px;
+	margin: 0;
+}
 #contents h2 {
 	color: #f0e99a;
 	font-weight: normal;
 	font: 22px/30px "Times New Roman", Times, serif;
 	line-height: 20px;
 	margin: 0;
+	text-transform: uppercase;
 	text-align: center;
 }
 #contents h1 {
@@ -148,7 +156,7 @@ img {
 	text-align: center;
 }
 #contents h5 {
-	color: #a08a6b;
+	color: #e9b66f;
 	font: 18px/30px "Times New Roman", Times, serif;
 	letter-spacing: 1px;
 	margin: 0;
